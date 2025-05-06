@@ -1,0 +1,154 @@
+/*{
+font-family: Arial,  sans-serif;
+  background-color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers *
+.container {
+  padding: 16px;
+  background-color: white;
+}
+
+/* Full-width input fields 
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+
+}
+input[type=number], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr 
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+input[type=email], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 25px 62px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 80px 97px;
+    cursor: pointer
+
+*
+
+
+div{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: aqua;
+}
+ span{
+  display: inline-block;
+  border: 1px  solid blue;
+  width: 100px;
+  height: 100px;
+  padding: 60px;
+  /* Affiche un élément en tant qu'élément en tant conteneur bloc en  ligne, mais vous pouvez lui appliquer  une valeur  à la hauteur  et la largeur.container. l'element lui même est 
+  formaté en inline  *
+}
+.p1{
+  display: block;
+border: 1px solid red ;
+/* Affiche un élément en tant qu'élément eblock  *
+}
+.p2{
+  display:inline;
+border: 1px solid yellow ;
+/* Affiche un élément en tant qu'élément en ligne  */
+
+
+
+
+
+body
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /*background-image: url(plagesenenegal.jpg),url(STLOUIS.jpg);
+  background-size: 300px , 400px;
+  background-repeat: no-repeat , no-repeat;
+  background-position: top right ,top left;
+*/}
+td ,th
+{
+  border: black solid;
+  padding: 10px;
+  
+}
+/*table{
+  border-collapse:collapse ;
+} 
+.div1{
+  background-color: red;
+}
+.div2{
+  background-color: blue;
+}
+tfoot{
+  background-color: beige;
+}
+*/
+table{
+  border-collapse:collapse ;
+} 
+tr:nth-child(odd) td{
+
+  background-color: blue;
+  border-collapse: collapse;
+}
+ tr:nth-child(even)  td{
+  background-color: red;
+  border-collapse: collapse;
+
+/*  Résultat : chaque ligne complète est colorée en bleu ou rouge alternativement.
+Alignement = horizontal
+Pour l'alignement vertical :
+ td:nth-child(odd) {
+  background-color: blue;
+}
+
+td:nth-child(even) {
+  background-color: red;
+}
+
+*/
+
+
+}
+
